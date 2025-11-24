@@ -1,4 +1,5 @@
 # for discovering services and pods
+# updated values for gcp
 serviceAccount: discovery-sa
 namespace: default
 
